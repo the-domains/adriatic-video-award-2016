@@ -1,3 +1,7 @@
+name: Adriatic video award 2016
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.811493
-  brandStrength: 0.8995703
-  lightness: 0.4258862
   brandColors:
     - '#783031'
-    - '#241B1C'
-    - '#FFFFFF'
-    - '#C09482'
-    - '#DDB3C5'
-  rhythmicContrast: 0.4312567
-typography_spectrum: 0
-layout_spectrum: 0
-name: Adriatic video award 2016
+    - '#241b1c'
+    - '#fefdfe'
+    - '#bd686d'
+    - '#aaa5a6'
+  brandStrength: 0.8995703
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 0.75
+purpose: []
