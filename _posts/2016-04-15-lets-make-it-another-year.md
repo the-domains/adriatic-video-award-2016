@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Let's make it another year!
-datePublished: '2016-08-17T15:59:14.077Z'
-dateModified: '2016-08-17T15:53:15.183Z'
+datePublished: '2016-08-17T16:06:46.087Z'
+dateModified: '2016-08-17T15:59:22.667Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-lets-make-it-another-year.md
+via: {}
 authors: []
 publisher: {}
-via: {}
 starred: false
 url: lets-make-it-another-year/index.html
 _type: Article
