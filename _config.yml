@@ -11,16 +11,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.7731605
+  saturation: 0.811493
   brandStrength: 0.8995703
-  lightness: 0.8104189
+  lightness: 0.4258862
   brandColors:
     - '#783031'
     - '#241B1C'
     - '#FFFFFF'
     - '#C09482'
     - '#DDB3C5'
-  rhythmicContrast: 0.7524167
+  rhythmicContrast: 0.4312567
 typography_spectrum: 0
-layout_spectrum: 0.002685252
+layout_spectrum: 0
 name: Adriatic video award 2016
