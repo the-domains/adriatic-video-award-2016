@@ -1,26 +1,26 @@
-color:
-  saturation: 0.7731605
-  brandStrength: 0.8243824
-  rhythmicContrast: 0.7524167
-  brandColors:
-    - '#000000'
-    - '#271D1F'
-    - '#783031'
-    - '#FBE9E9'
-    - '#B48891'
-  lightness: 0.8104189
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.002685252
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.7731605
+  brandStrength: 0.8995703
+  lightness: 0.8104189
+  brandColors:
+    - '#783031'
+    - '#241B1C'
+    - '#FFFFFF'
+    - '#C09482'
+    - '#DDB3C5'
+  rhythmicContrast: 0.7524167
 typography_spectrum: 0
+layout_spectrum: 0.002685252
 name: Adriatic video award 2016
